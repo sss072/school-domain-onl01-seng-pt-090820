@@ -15,5 +15,6 @@ class School
    end
    def sort 
      new_hash = {}
-     hash.
+     @roster.each do |key, value|
+       
 end
