@@ -14,5 +14,6 @@ class School
      @roster[grade_given]
    end
    def sort 
-     
+     new_hash = {}
+     hash.
 end
